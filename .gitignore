@@ -1,0 +1,5 @@
+api/.vscode
+api/target
+view/.vscode
+view/node_modules
+view/package-lock.json
